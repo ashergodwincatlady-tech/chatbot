@@ -1,4 +1,4 @@
 os
 gradio
-dotenv
-openai
+load_dotenv
+OpenAI
