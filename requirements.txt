@@ -1,0 +1,4 @@
+os
+gradio
+dotenv
+openai
